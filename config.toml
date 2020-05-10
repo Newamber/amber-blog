@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://newamber.netlify.app"
 languageCode = "zh-CN"
 title = "蓝色大门"
 copyright = "newamber. 本站遵循 CC-BY-NC 4.0 协议"
