@@ -7,13 +7,13 @@ theme = "diary"
 
 [params]
   subtitle = "道可顿悟，事需渐修"
-  enableValine = false
+  enableValine = true
   enableMathJax = true
 
 [params.valine]
-  appId = "Your app ID of leancloud"
-  appKey = "Your app key of leancloud"
-  avator = "avator type"
+  appId = "mXEGFQDHRlfdKl8FUHEOg8Ek-gzGzoHsz"
+  appKey = "g2SEzX0xTYF5Lbf6s7oulNX6"
+  avator = "retro"
 
 [taxonomies]
   tag = "tags"
