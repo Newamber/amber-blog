@@ -1,0 +1,33 @@
+---
+title: "海夏"
+date: 2020-06-07T15:47:50+08:00
+description: ""
+tags: ["现代诗"]
+featured_image: ""
+categories: "诗"
+comment : true
+draft: false
+---
+
+
+云飘飖
+
+你走远
+
+背一身行囊
+
+海风伴你
+
+给你笼一层绰约
+
+<br>
+
+你终于走远
+
+去违抗谶语
+
+让我回想叶掩映的夏天
+
+有赪红晚霞
+
+有怀抱世界的云

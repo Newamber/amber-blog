@@ -1,6 +1,6 @@
 # 蓝色大门 
 
- is my personal website. Visit it to kown more.
+ This is my personal website. Visit it to kown more.
 
 ## Deploy
 
